@@ -1,6 +1,6 @@
 import { SignUp } from "@clerk/clerk-react";
 
-const page = () => {
+const Page = () => {
   return <SignUp />;
 };
-export default page;
+export default Page;
